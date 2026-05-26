@@ -9,3 +9,5 @@ docker rm apache
 docker rmi httpd
 
 zadanie2
+docker build app.
+docker run -d --name aplikacja app
